@@ -29,7 +29,7 @@ Experience easy editing with our in-place [editing](https://help.syncfusion.com/
 ## Related links
 [Learn More about .NET MAUI DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid?utm_source=github&utm_medium=listing&utm_campaign=maui-datagrid-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/maui/confirm?utm_source=github&utm_medium=listing&utm_campaign=maui-datagrid-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-datagrid-github-samples)
 
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=maui-datagrid-github-samples)
 
