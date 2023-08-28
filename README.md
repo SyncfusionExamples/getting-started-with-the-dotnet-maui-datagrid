@@ -43,7 +43,7 @@ Experience easy editing with our in-place [editing](https://help.syncfusion.com/
 
 [Online example](https://github.com/syncfusion/maui-demos/tree/master/MAUI/DataGrid?utm_source=github&utm_medium=listing&utm_campaign=maui-datagrid-github-samples)
 
-[Knowledge base](https://support.syncfusion.com/kb/cross-platforms/section/1120?utm_source=github&utm_medium=listing&utm_campaign=maui-datagrid-github-samples)
+[Knowledge base](https://support.syncfusion.com/kb/cross-platforms/section/1227?utm_source=github&utm_medium=listing&utm_campaign=maui-datagrid-github-samples)
 
 ## About Syncfusion .NET MAUI Controls
 
